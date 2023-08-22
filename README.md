@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grandpa-ABIR</h1>
 <h3 align="center">A Noob developer from Universe 🙁</h3>
+<p style="background : black;">
 <p align="center"> <img src="https://raw.githubusercontent.com/Grandpa-abir/Grandpa-abir/main/hacker-gif-1.gif"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grandpa-abir&label=Profile%20views&color=0e75b6&style=flat" alt="grandpa-abir" /> </p>
 
